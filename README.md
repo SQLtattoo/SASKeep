@@ -1,4 +1,4 @@
-![GitHub language count](https://img.shields.io/github/languages/count/sqltattoo/SASKeep) ![GitHub top language](https://img.shields.io/github/languages/top/sqltattoo/SASKeep) ![GitHub repo file count](https://img.shields.io/github/directory-file-count/sqltattoo/SASKeep) ![GitHub repo size](https://img.shields.io/github/repo-size/sqltattoo/SASKeep) ![Lines of code](https://img.shields.io/tokei/lines/github/sqltattoo/SASKeep) ![GitHub](https://img.shields.io/github/license/sqltattoo/SASKeep) ![GitHub Repo stars](https://img.shields.io/github/stars/sqltattoo/SASKeep?style=social) ![GitHub forks](https://img.shields.io/github/forks/sqltattoo/SASKeep?style=social)
+![GitHub language count](https://img.shields.io/github/languages/count/sqltattoo/SASkeep) ![GitHub top language](https://img.shields.io/github/languages/top/sqltattoo/SASkeep) ![GitHub repo file count](https://img.shields.io/github/directory-file-count/sqltattoo/SASkeep) ![Lines of code](https://img.shields.io/tokei/lines/github/sqltattoo/SASkeep) ![GitHub](https://img.shields.io/github/license/sqltattoo/SASkeep)
 
 # SASKeep v1.0
 
