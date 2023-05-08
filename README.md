@@ -2,7 +2,7 @@
 
 # SASKeep v1.0
 
-SASKeep is a .NET 6.0 console application, written in C# 9.0, that generates Shared Access Signature (SAS) tokens for Azure Storage Accounts, and saves them safely in a designated Azure Key Vault. The SAS tokens can be created either at the container or blob level, and can utilize ad-hoc permisions or together with a stored access policy. 
+SASKeep is a .NET 6.0 console application, written in C# 10.0, that generates Shared Access Signature (SAS) tokens for Azure Storage Accounts, and saves them safely in a designated Azure Key Vault. The SAS tokens can be created either at the container or blob level, and can utilize ad-hoc permisions or together with a stored access policy. 
 
 ## Diagrams and flows
 
