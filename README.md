@@ -60,7 +60,7 @@ flowchart TD
 <br />
 
 ## Why this app?
-This came up in a course I was delivering as "something that would be nice to have" in order to keep some track on this. Azure does not keep track of the SAS generated for various reasons. 
+This came up in a course I was delivering as "something that would be nice to have" in order to keep some track on this. Azure does not keep track of the SAS generated for various reasons, by design. By storing the information in Azure Key Vault you get the audit and visibility you need on the generated SAS as well as who gains access to the secrets.
 
 ### Some details on Shared Access Signatures (SAS)
 In simple terms, a shared access signature is a signed URL that grants access to storage resources. This URL contains a token with specific query parameters, which specifies the level of access granted to the client for the resources.
